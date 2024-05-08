@@ -4,7 +4,7 @@
   <br>
 </div>
 
-> **Note** 
+> [!NOTE]
 > this repository contains ressources from an [article on my website](https://xeylou.fr/posts/itop-tour).  
 > You are welcome to contact me about it in french or in english.
 
