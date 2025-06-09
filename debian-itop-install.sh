@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# This script installs iTop 3.1.0-1 on a Debian-based system.
+# It is designed to be run in an empty directory.
+
+# Feel free to modify it to install a different version of iTop.
+
+# Usage:
 # mkdir testing && cd testing && nano debian-itop-install.sh && chmod +x debian-itop-install.sh && ./debian-itop-install.sh
 
 show_time ()
