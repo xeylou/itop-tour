@@ -5,9 +5,9 @@
 </div>
 
 > [!NOTE]
-> this repository contains ressources from an [article on my website](https://xeylou.fr/posts/itop-tour).  
+> This repository contains ressources from an [article on my website](https://testade.xeylou.fr/posts/itop-tour/).  
 > You are welcome to contact me about it in french or in english.
 
 > [!IMPORTANT]  
-> Feel free to use my work, i'd be glad.  
-> But please do not copy/paste it or use it without mentionning me.
+> Feel free to use my work, I'd be glad.  
+> But please do not copy/paste without understanding it or use it without mentionning me.
